@@ -1,0 +1,259 @@
+
+/*====navber*/
+
+.maindiv{
+    width: 1500px;
+    height: auto;
+}
+
+
+
+#mainnav{
+    width: 1500px;
+    height:100vh ;
+    background-image: url("hero-bg.jpg");
+    background-size: cover;
+    position: relative;
+    padding: 0;
+  
+}
+#navber{
+    background: rgb(9, 8, 8);
+    width: 1500px;
+    height: 70px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: fixed;
+   
+   
+}
+.restu{
+   
+    font-size: 30px;
+    color: white; 
+}
+.divvv{
+    width: 1500px;
+    height: 750px;
+    background:rgb(9, 8, 8);
+    display: flex;
+}
+.h1111{
+    margin-top: 200px;
+    color:white;
+    margin-left: 100px;
+}
+.h4{
+    color: white;
+    margin-left: 100px;
+}
+.div1{
+    margin-top: 100px;
+    margin-left: 80px;
+    color: white;
+}
+.div11{
+    margin-top: 100px;
+    margin-left: 20px;
+    border: 4px solid #efd3d3;
+    height: 538px;
+    margin-right: 5px;
+}
+.class{
+    margin-top: 90px;
+    display: flex;
+    margin-right: 400px;
+}
+.h5{
+    color:white;
+
+}
+.newdiv{
+    width: 1500px;
+    height: 700px;
+    background: rgb(9, 8, 8);
+    margin-top: 50px;
+}
+.second{
+    width: 1500px;
+    height: 100vh;
+    background: url(about-bg.jpg);
+    background-size: cover;
+    position: relative;
+    padding: 80px 0;
+    background-color: rgb(40, 1, 1);
+    margin-top: 20px;
+    display: flex;
+   
+}
+.second11{
+    color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+.about{
+      padding: 50px 30px;
+      box-shadow: 0px 2px 15px rgba(0,0,0,0.1);
+      transition: all ease-in-out;
+      background: #1a1814;
+
+      margin-top: 20px;
+      height: 400px;
+}
+#eee{
+    border: 3px solid #cda45e;
+    width: 300px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+#eee1{
+    border: 3px solid #cda45e;
+    width: 300px;
+    margin-left: 40px;
+}
+#eee2{
+    border: 3px solid #cda45e;
+    width: 300px;
+    margin-left: 40px;
+}
+.img111{
+  margin-left: 30px;
+}
+
+.DIVVV{
+    width: 1500px;
+    height: 750px;
+    background: #1a1814;
+    margin-top: 30px;
+   
+}
+.DiV{
+    color: white;
+   
+}
+.DiV23{
+    color: white;
+    margin-left: 200px;
+    margin-top: 150px;
+}
+.specials{
+    clip-path: circle(200px at 50% 50%);
+   margin-bottom: 200px;
+}
+.modi{
+    color: white;
+    border: 2px solid #cda45e;
+    width: 200px;
+    height: 50px;
+    margin-left: 20px;
+    background: #cda45e;
+    padding: 5px;
+    padding-left: 20px;
+}
+.second222{
+    width: 1500px;
+    height: 100vh;
+    background: url(events-bg.jpg);
+    background-size: cover;
+    position: relative;
+    padding: 80px 0;
+    background-color: rgb(40, 1, 1);
+    margin-top: 20px;
+    display: flex;
+   
+}
+.contact{
+    width: 1500px;
+    height: 700px;
+    background: #1a1814;
+    margin-top: 20px;
+}
+#ccccc{
+    margin-left: 80px;
+}
+#form{
+    width: 350px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#form11{
+    width: 350px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+#form-row{
+    display: flex;
+}
+#form1122{
+    width: 350px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+#form1123{
+    width: 350px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+#message{
+    width: 1150px;
+    height: 80px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.gellary{
+    width: 1500px;
+    height: 700px;
+    background: #1a1814;
+    margin-top: 20px;
+}
+.img:hover{
+    transition: calc(1.1);
+    background: #1a1814;
+}
+.gellary11{
+    width: 1500px;
+    height: 900px;
+    background: #1a1814;
+    margin-top: 20px;
+}
+#form34{
+    width: 450px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 10px;
+}
+#form112234{
+    width: 450px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+#form345{
+    width: 960px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 10px;
+}
+#message2{
+    width: 1000px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.gellary1122{
+    width: 1500px;
+    height: 1500px;
+    background: #1a1814;
+    margin-top: 20px;
+}
